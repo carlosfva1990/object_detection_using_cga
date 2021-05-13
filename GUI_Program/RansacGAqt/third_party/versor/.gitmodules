@@ -1,0 +1,6 @@
+[submodule "ext/glv"]
+	path = ext/glv
+	url = https://github.com/AlloSphere-Research-Group/GLV.git
+[submodule "ext/gfx"]
+	path = ext/gfx
+	url = https://github.com/wolftype/gfx.git
